@@ -1,4 +1,4 @@
-# FP-A-Executive-Dashboard
+# FP & A-Executive-Dashboard
 1. Designed 3 interactive report pages - Overview, Revenue Detailed, and Expenses Breakdown - with dynamic Month & Year slicers for flexible period analysis.
 2. Built KPI cards tracking Revenue ($111.40M), Expenses ($78.01M), EBITDA ($33.38M), and EBITDA % (42.8%) with vs Budget, vs Last Year, and vs Last Month variance comparisons.
 3. Developed Revenue breakdown by category (Stevedoring, Handling, Storage, Other Operating Income) with monthly trend analysis - revealing consistent 29–35% above-budget revenue performance.
